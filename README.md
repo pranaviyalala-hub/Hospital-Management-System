@@ -41,5 +41,6 @@
 ##### OR Management: Surgery scheduling and Operating Room (OR) management are now clinical functions. Only Doctors have access to the "OR Control Center" to manage unit availability and procedure status.
 
 ### Demo videos:
-
+##### https://drive.google.com/drive/folders/1Ya-tuQ_KIctWko0zItSu0dM5zIbKTZoW?usp=sharing
 ### Demo images:
+##### https://drive.google.com/drive/folders/1CUAObvuOOZDLlQ81yaN7c83wLRa0Vx5S?usp=sharing
