@@ -1,0 +1,66 @@
+employee_id,full_name,email,password,role,department,designation,phone,is_active,created_at
+EMPD001,Danielle Johnson,doctor1@hospital.local,Doc@123,Doctor,General Medicine,"MBBS, MD",3321819600,True,2026-02-01T10:00:00
+EMPD002,William Johnson,doctor2@hospital.local,Doc@123,Doctor,Neurology,"MBBS, DNB",8637940265,True,2026-02-01T10:00:00
+EMPD003,Susan Rogers,doctor3@hospital.local,Doc@123,Doctor,Orthopedics,"MBBS, MS",6155940781,True,2026-02-01T10:00:00
+EMPD004,Kelly Fuller,doctor4@hospital.local,Doc@123,Doctor,Cardiology,"MBBS, MD",9310341316,True,2026-02-01T10:00:00
+EMPD005,Francisco Kelly,doctor5@hospital.local,Doc@123,Doctor,General Medicine,MBBS,1928327648,True,2026-02-01T10:00:00
+EMPD006,Jeremy Johnson,doctor6@hospital.local,Doc@123,Doctor,Cardiology,"MBBS, MD",6413953767,True,2026-02-01T10:00:00
+EMPD007,John Hoffman,doctor7@hospital.local,Doc@123,Doctor,Neurology,"MBBS, MS",9696532871,True,2026-02-01T10:00:00
+EMPD008,Courtney Conner,doctor8@hospital.local,Doc@123,Doctor,Neurology,"MBBS, MD",9166978480,True,2026-02-01T10:00:00
+EMPD009,Kayla Peterson,doctor9@hospital.local,Doc@123,Doctor,Neurology,MBBS,6270482814,True,2026-02-01T10:00:00
+EMPD010,Eric Farmer,doctor10@hospital.local,Doc@123,Doctor,Pediatrics,MBBS,9570154303,True,2026-02-01T10:00:00
+EMPD011,Jessica Cabrera,doctor11@hospital.local,Doc@123,Doctor,Orthopedics,"MBBS, MD",2782489638,True,2026-02-01T10:00:00
+EMPD012,Wanda Santos,doctor12@hospital.local,Doc@123,Doctor,ENT,MBBS,8713315098,True,2026-02-01T10:00:00
+EMPD013,Adrian Zimmerman,doctor13@hospital.local,Doc@123,Doctor,Orthopedics,"MBBS, DNB",3105183473,True,2026-02-01T10:00:00
+EMPD014,Barbara Sanchez,doctor14@hospital.local,Doc@123,Doctor,ENT,"MBBS, MS",6311656670,True,2026-02-01T10:00:00
+EMPD015,Jessica Mcbride,doctor15@hospital.local,Doc@123,Doctor,Cardiology,"MBBS, MD",3338726247,True,2026-02-01T10:00:00
+EMPD016,Lindsey Chase,doctor16@hospital.local,Doc@123,Doctor,Cardiology,MBBS,0801326773,True,2026-02-01T10:00:00
+EMPD017,Nicholas Galloway,doctor17@hospital.local,Doc@123,Doctor,ENT,"MBBS, DNB",7468723430,True,2026-02-01T10:00:00
+EMPD018,Julie Brown,doctor18@hospital.local,Doc@123,Doctor,General Medicine,"MBBS, DNB",8820812191,True,2026-02-01T10:00:00
+EMPD019,Shelly Hudson,doctor19@hospital.local,Doc@123,Doctor,Cardiology,MBBS,9169985435,True,2026-02-01T10:00:00
+EMPD020,David Brewer,doctor20@hospital.local,Doc@123,Doctor,Cardiology,MBBS,5107991183,True,2026-02-01T10:00:00
+EMPN001,Taylor Ibarra,nurse1@hospital.local,Nurse@123,Nurse,OT,ICU Nurse,5427849808,True,2026-02-01T10:00:00
+EMPN002,Deborah Preston,nurse2@hospital.local,Nurse@123,Nurse,Ward A,Staff Nurse,4493534874,True,2026-02-01T10:00:00
+EMPN003,Sandra Williams,nurse3@hospital.local,Nurse@123,Nurse,Ward A,ICU Nurse,2427868011,True,2026-02-01T10:00:00
+EMPN004,Mary Aguilar,nurse4@hospital.local,Nurse@123,Nurse,Emergency,Staff Nurse,6204505331,True,2026-02-01T10:00:00
+EMPN005,Valerie Brady,nurse5@hospital.local,Nurse@123,Nurse,Ward B,ICU Nurse,2260256342,True,2026-02-01T10:00:00
+EMPN006,Shannon Walker,nurse6@hospital.local,Nurse@123,Nurse,Pediatrics,Senior Nurse,5433036541,True,2026-02-01T10:00:00
+EMPN007,Jennifer Zavala,nurse7@hospital.local,Nurse@123,Nurse,OT,Staff Nurse,0142940196,True,2026-02-01T10:00:00
+EMPN008,Lisa Dixon,nurse8@hospital.local,Nurse@123,Nurse,Ward B,Senior Nurse,9340608835,True,2026-02-01T10:00:00
+EMPN009,Lisa Alvarado,nurse9@hospital.local,Nurse@123,Nurse,Pediatrics,ICU Nurse,4846564823,True,2026-02-01T10:00:00
+EMPN010,Lisa Turner,nurse10@hospital.local,Nurse@123,Nurse,Pediatrics,Senior Nurse,4436995777,True,2026-02-01T10:00:00
+EMPN011,Rebecca Moyer,nurse11@hospital.local,Nurse@123,Nurse,Ward B,Staff Nurse,1489513433,True,2026-02-01T10:00:00
+EMPN012,John Alvarez,nurse12@hospital.local,Nurse@123,Nurse,Emergency,ICU Nurse,7693676320,True,2026-02-01T10:00:00
+EMPN013,Casey Rubio,nurse13@hospital.local,Nurse@123,Nurse,OT,Senior Nurse,0831727889,True,2026-02-01T10:00:00
+EMPN014,Lisa Mcclain,nurse14@hospital.local,Nurse@123,Nurse,Ward B,ICU Nurse,8727743487,True,2026-02-01T10:00:00
+EMPN015,Angela Mitchell,nurse15@hospital.local,Nurse@123,Nurse,Pediatrics,OT Nurse,5581223623,True,2026-02-01T10:00:00
+EMPN016,Erin Owens,nurse16@hospital.local,Nurse@123,Nurse,Ward B,ICU Nurse,3669096705,True,2026-02-01T10:00:00
+EMPN017,Kimberly Navarro,nurse17@hospital.local,Nurse@123,Nurse,Pediatrics,ICU Nurse,7346706562,True,2026-02-01T10:00:00
+EMPN018,Kimberly Meadows,nurse18@hospital.local,Nurse@123,Nurse,ICU,OT Nurse,1627204653,True,2026-02-01T10:00:00
+EMPN019,Paige Gray,nurse19@hospital.local,Nurse@123,Nurse,OT,Senior Nurse,4170805310,True,2026-02-01T10:00:00
+EMPN020,Sara Howell,nurse20@hospital.local,Nurse@123,Nurse,Ward A,Staff Nurse,2719374529,True,2026-02-01T10:00:00
+EMPN021,Traci Rodriguez,nurse21@hospital.local,Nurse@123,Nurse,Pediatrics,Senior Nurse,4966319314,True,2026-02-01T10:00:00
+EMPN022,Rachel Reed,nurse22@hospital.local,Nurse@123,Nurse,Emergency,Staff Nurse,5185067165,True,2026-02-01T10:00:00
+EMPN023,Casey Boyd,nurse23@hospital.local,Nurse@123,Nurse,OT,OT Nurse,9877694531,True,2026-02-01T10:00:00
+EMPN024,Nicole Hudson,nurse24@hospital.local,Nurse@123,Nurse,Pediatrics,Staff Nurse,5075273545,True,2026-02-01T10:00:00
+EMPN025,Angela Black,nurse25@hospital.local,Nurse@123,Nurse,Pediatrics,ICU Nurse,1367837770,True,2026-02-01T10:00:00
+EMPA001,Richard Sanchez,admin1@hospital.local,Admin@123,Admin,Administration,Operations Admin,7885685574,True,2026-02-01T10:00:00
+EMPA002,David Lee,admin2@hospital.local,Admin@123,Admin,Administration,Front Desk Admin,8233749894,True,2026-02-01T10:00:00
+EMPA003,Jeremy White,admin3@hospital.local,Admin@123,Admin,Administration,Operations Admin,8240084271,True,2026-02-01T10:00:00
+EMPA004,Taylor Alexander,admin4@hospital.local,Admin@123,Admin,Administration,Operations Admin,0471167190,True,2026-02-01T10:00:00
+EMPA005,Stacy Miller,admin5@hospital.local,Admin@123,Admin,Administration,Front Desk Admin,1869993867,True,2026-02-01T10:00:00
+EMPP001,Veronica Torres,pharmacy1@hospital.local,Pharm@123,Pharmacy,Pharmacy,Senior Pharmacist,9133412328,True,2026-02-01T10:00:00
+EMPP002,Ricky Norris,pharmacy2@hospital.local,Pharm@123,Pharmacy,Pharmacy,Pharmacist,4034471349,True,2026-02-01T10:00:00
+EMPP003,Amy Holland,pharmacy3@hospital.local,Pharm@123,Pharmacy,Pharmacy,Senior Pharmacist,2102499471,True,2026-02-01T10:00:00
+EMPP004,Sherri Mason,pharmacy4@hospital.local,Pharm@123,Pharmacy,Pharmacy,Pharmacist,7190659401,True,2026-02-01T10:00:00
+EMPP005,Stephanie Key,pharmacy5@hospital.local,Pharm@123,Pharmacy,Pharmacy,Pharmacist,9027874296,True,2026-02-01T10:00:00
+EMPD001,Michael Cook,diagnostic1@hospital.local,Diag@123,Diagnostic,Radiology,Senior Lab Technician,2567468071,True,2026-02-01T10:00:00
+EMPD002,Darrell Barton,diagnostic2@hospital.local,Diag@123,Diagnostic,Diagnostics,Senior Lab Technician,8760385977,True,2026-02-01T10:00:00
+EMPD003,Andrea Pennington,diagnostic3@hospital.local,Diag@123,Diagnostic,Laboratory,Senior Lab Technician,7109324808,True,2026-02-01T10:00:00
+EMPD004,Victoria Durham,diagnostic4@hospital.local,Diag@123,Diagnostic,Radiology,Lab Technician,1274846773,True,2026-02-01T10:00:00
+EMPD005,Patrick Weeks,diagnostic5@hospital.local,Diag@123,Diagnostic,Diagnostics,Lab Technician,1465840449,True,2026-02-01T10:00:00
+EMPD006,Sean Washington,diagnostic6@hospital.local,Diag@123,Diagnostic,Laboratory,Senior Lab Technician,8867533963,True,2026-02-01T10:00:00
+EMPD007,Julie Thornton,diagnostic7@hospital.local,Diag@123,Diagnostic,Radiology,Senior Lab Technician,6270289517,True,2026-02-01T10:00:00
+EMPD008,Alexis Thomas,diagnostic8@hospital.local,Diag@123,Diagnostic,Laboratory,Radiology Technician,1745961586,True,2026-02-01T10:00:00
+EMPD009,Barry Jones,diagnostic9@hospital.local,Diag@123,Diagnostic,Radiology,Lab Technician,3161172400,True,2026-02-01T10:00:00
+EMPD010,Michael Jordan,diagnostic10@hospital.local,Diag@123,Diagnostic,Laboratory,Radiology Technician,8692221969,True,2026-02-01T10:00:00
