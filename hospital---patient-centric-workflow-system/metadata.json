@@ -1,0 +1,7 @@
+{
+  "name": "Hospital - Patient-Centric Workflow System",
+  "description": "A comprehensive clinical management system with role-based dashboards, real-time patient timelines, and automated care team assignments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
